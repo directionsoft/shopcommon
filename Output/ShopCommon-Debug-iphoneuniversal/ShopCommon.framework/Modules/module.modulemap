@@ -1,6 +1,0 @@
-framework module ShopCommon {
-  umbrella header "ShopCommon.h"
-
-  export *
-  module * { export * }
-}
